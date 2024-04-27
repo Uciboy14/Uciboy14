@@ -14,7 +14,8 @@
 ## Portfolio
 
 🚀 Check out my New Portfolio [ithardwarepart.com](https://ithardwarepart.com)
-
+[exceptionalone.org]
+(https://exceptionalone.org)
 ## What I'm Currently Doing
 
 🔭 I’m currently working at @Toptal  
@@ -31,13 +32,14 @@ React Badge | Javascript Badge | Typescript Badge | Nodejs Badge | GraphQL Badge
 ## Tutorials
 
 - React
+- Vue.js
 - HTML5
 - JavaScript
-- Visual Studio Code
 - Sass
 - Node.js
 - GraphQL
-- Deno
+- Python
+- Django/Flask 
 - SQL
 - MySQL
 - Git
