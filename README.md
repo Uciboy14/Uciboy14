@@ -15,7 +15,7 @@
 
 🚀 Check out my New Portfolio [ithardwarepart.com](https://ithardwarepart.com)
 [exceptionalone.org]
-(https://exceptionalone.org)
+(https://www.exceptionalone.org)
 ## What I'm Currently Doing
 
 🔭 I’m currently working at @Toptal  
