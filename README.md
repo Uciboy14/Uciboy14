@@ -7,9 +7,9 @@
 ## Connect with Me
 
 📫 Reach me out!
-- Twitter Badge
-- Mail Badge
-- Linkedin Badge
++ Twitter Badge
++ Mail Badge
++ Linkedin Badge
 
 ## Portfolio
 
@@ -18,7 +18,7 @@
 (https://www.exceptionalone.org)
 ## What I'm Currently Doing
 
-🔭 I’m currently working at @Toptal  
+🔭 I’m currently open to jobs.
 💻 Most used line of code: `git commit -m "Initial Commit"`  
 🤔 I’m looking for help with Outstanding Video ideas.  
 📫 How to reach me: [uccodetech@gmail.com](mailto:uccodetech@gmail.com)  
@@ -31,19 +31,19 @@ React Badge | Javascript Badge | Typescript Badge | Nodejs Badge | GraphQL Badge
 
 ## Tutorials
 
-- React
-- Vue.js
-- HTML5
-- JavaScript
-- Sass
-- Node.js
-- GraphQL
-- Python
-- Django/Flask 
-- SQL
-- MySQL
-- Git
-- MongoDB
++ [x] React
++ [x] Vue.js
++ [x] HTML5
++ [x] JavaScript
++ [x] Sass
++ [x] Node.js
++ [x] GraphQL
++ [x] Python
++ [x] Django/Flask 
++ [x] SQL
++ [x] MySQL
++ [x] Git
++ [x] MongoDB
 
 ## Bizness
 
